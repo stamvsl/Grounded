@@ -1,0 +1,223 @@
+Container 'C:\Visionaire\Grounded\windows\Scene002.vs'
+-------------------------------------------------------------------------------
+art/backgrounds/bedroom.png
+art/scene items/bed.png
+art/scene items/magazine_on_screen.png
+art/scene items/paint_bucket_onScreen.png
+art/scene items/gameboy_onscreen.png
+sounds/Solve The Puzzle.ogg
+sounds/Humble Match.ogg
+--------------------------------------------------------------------------------
+Container 'C:\Visionaire\Grounded\windows\Scene008.vs'
+-------------------------------------------------------------------------------
+art/backgrounds/kitchen.png
+art/scene items/kitchen_table.png
+--------------------------------------------------------------------------------
+Container 'C:\Visionaire\Grounded\windows\Scene007.vs'
+-------------------------------------------------------------------------------
+art/backgrounds/downstairs.png
+--------------------------------------------------------------------------------
+Container 'C:\Visionaire\Grounded\windows\Character000.vc'
+-------------------------------------------------------------------------------
+art/characters/player/player_walk1.png
+art/characters/player/player_walk2.png
+art/characters/player/player_walk3.png
+art/characters/player/player_walk4.png
+art/characters/player/player_walk5.png
+art/characters/player/player_walk6.png
+art/characters/player/player_walk_back1.png
+art/characters/player/player_walk_back2.png
+art/characters/player/player_walk_back3.png
+art/characters/player/player_walk_back4.png
+art/characters/player/player_walk_back5.png
+art/characters/player/player_walk_back6.png
+art/characters/player/player_walk_left1.png
+art/characters/player/player_walk_left2.png
+art/characters/player/player_walk_left3.png
+art/characters/player/player_walk_left4.png
+art/characters/player/player_walk_left5.png
+art/characters/player/player_walk_left6.png
+art/characters/player/player_walk_front1.png
+art/characters/player/player_walk_front2.png
+art/characters/player/player_walk_front3.png
+art/characters/player/player_walk_front4.png
+art/characters/player/player_walk_front5.png
+art/characters/player/player_walk_front6.png
+art/characters/player/player_standing_right.png
+art/characters/player/player_back.png
+art/characters/player/player_standing_left.png
+art/backgrounds/up_arrow_active.png
+art/backgrounds/down_arrow_active.png
+art/backgrounds/dialogue_bg.png
+--------------------------------------------------------------------------------
+Container 'C:\Visionaire\Grounded\windows\Character005.vc'
+-------------------------------------------------------------------------------
+art/characters/sister/sister.png
+--------------------------------------------------------------------------------
+Container 'C:\Visionaire\Grounded\windows\Scene004.vs'
+-------------------------------------------------------------------------------
+art/backgrounds/hallway.png
+--------------------------------------------------------------------------------
+Container 'C:\Visionaire\Grounded\windows\Character001.vc'
+-------------------------------------------------------------------------------
+art/characters/spirit/spirit.png
+--------------------------------------------------------------------------------
+Container 'C:\Visionaire\Grounded\windows\Character004.vc'
+-------------------------------------------------------------------------------
+art/characters/dad/dad.png
+--------------------------------------------------------------------------------
+Container 'C:\Visionaire\Grounded\windows\Scene000.vs'
+-------------------------------------------------------------------------------
+art/backgrounds/menu.png
+--------------------------------------------------------------------------------
+Container 'C:\Visionaire\Grounded\windows\Scene010.vs'
+-------------------------------------------------------------------------------
+art/backgrounds/living_room.png
+art/backgrounds/living_room_foreground.png
+art/scene items/tvRemote_onScreen.png
+--------------------------------------------------------------------------------
+Container 'C:\Visionaire\Grounded\windows\Scene001.vs'
+-------------------------------------------------------------------------------
+art/backgrounds/intro.png
+sounds/ambient.ogg
+--------------------------------------------------------------------------------
+Container 'C:\Visionaire\Grounded\windows\Scene005.vs'
+-------------------------------------------------------------------------------
+art/backgrounds/sister_room.png
+art/Inventory items/bear.png
+art/scene items/pillow.png
+--------------------------------------------------------------------------------
+Container 'C:\Visionaire\Grounded\windows\Scene012.vs'
+-------------------------------------------------------------------------------
+art/scene items/portal/portal8.png
+art/scene items/portal/portal1.png
+art/scene items/portal/portal2.png
+art/scene items/portal/portal3.png
+art/scene items/portal/portal4.png
+art/scene items/portal/portal5.png
+art/scene items/portal/portal6.png
+art/scene items/portal/portal7.png
+--------------------------------------------------------------------------------
+Container 'C:\Visionaire\Grounded\windows\Character002.vc'
+-------------------------------------------------------------------------------
+art/characters/brother/brother_back.png
+--------------------------------------------------------------------------------
+Container 'C:\Visionaire\Grounded\windows\Scene011.vs'
+-------------------------------------------------------------------------------
+art/backgrounds/hallway_dark.png
+--------------------------------------------------------------------------------
+Container 'C:\Visionaire\Grounded\windows\Scene003.vs'
+-------------------------------------------------------------------------------
+art/backgrounds/bedroom1.png
+art/scene items/bed_fake.png
+--------------------------------------------------------------------------------
+Container 'C:\Visionaire\Grounded\windows\Scene009.vs'
+-------------------------------------------------------------------------------
+art/backgrounds/wc.png
+art/scene items/rod.png
+--------------------------------------------------------------------------------
+Container 'C:\Visionaire\Grounded\windows\Interfaces.vi'
+-------------------------------------------------------------------------------
+art/backgrounds/inventory_slots.png
+--------------------------------------------------------------------------------
+Container 'C:\Visionaire\Grounded\windows\Scene006.vs'
+-------------------------------------------------------------------------------
+art/backgrounds/brother_room.png
+art/scene items/tv/mario1.png
+art/scene items/tv/mario2.png
+art/scene items/tv/mario3.png
+art/scene items/tv/mario4.png
+art/scene items/tv/mario5.png
+art/scene items/tv/mario6.png
+art/scene items/tv/mario7.png
+art/scene items/tv/mario8.png
+art/scene items/tv/mario9.png
+art/scene items/tv/mario10.png
+art/scene items/tv/mario11.png
+art/scene items/tv/mario12.png
+art/scene items/tv/mario13.png
+art/scene items/tv/mario14.png
+art/scene items/tv/mario15.png
+art/scene items/tv/mario16.png
+art/scene items/tv/mario17.png
+art/scene items/tv/mario18.png
+art/Inventory items/ball.png
+--------------------------------------------------------------------------------
+Container 'C:\Visionaire\Grounded\windows\Character003.vc'
+-------------------------------------------------------------------------------
+art/characters/lemmy/lemmy.png
+--------------------------------------------------------------------------------
+Container 'C:\Visionaire\Grounded\windows\grounded.vis'
+-------------------------------------------------------------------------------
+fonts/Roboto-Regular.ttf
+fonts/BPdotsSquareBold.otf
+art/Inventory items/ball_with_glue.png
+art/Inventory items/paint_bucket.png
+art/Inventory items/ball_with_glue_and_mop.png
+art/Inventory items/batteries.png
+art/Inventory items/batteries_2.png
+art/Inventory items/gameboy.png
+art/Inventory items/glue.png
+art/Inventory items/key.png
+art/Inventory items/magazine.png
+art/Inventory items/mop.png
+art/Inventory items/screwdriver.png
+art/Inventory items/tvRemote.png
+art/Inventory items/headless_bear.png
+art/Inventory items/pillow.png
+art/Inventory items/scissors.png
+art/Inventory items/drawer_key.png
+art/Inventory items/pants.png
+art/Inventory items/mop_painted.png
+art/Inventory items/ticket.png
+art/icons/Mouse.png
+art/icons/Look.png
+art/icons/stop.png
+game.veb
+--------------------------------------------------------------------------------
+
+Containers:
+
+
+Character000.vc 0 Player
+
+Character001.vc 1 Spirit
+
+Character002.vc 2 Brother
+
+Character003.vc 5 Lemmy
+
+Character004.vc 3 Dad
+
+Character005.vc 4 Sister
+
+Interfaces.vi 0 
+
+Scene000.vs 11 Main_menu
+
+Scene001.vs 2 intro
+
+Scene002.vs 0 Bedroom
+
+Scene003.vs 16 Bedroom1
+
+Scene004.vs 3 Hallway
+
+Scene005.vs 5 SisterRoom
+
+Scene006.vs 7 BrotherRoom
+
+Scene007.vs 8 Down_hallway
+
+Scene008.vs 9 Kitchen
+
+Scene009.vs 4 WC
+
+Scene010.vs 12 LivingRoom
+
+Scene011.vs 1 Ending_old
+
+Scene012.vs 13 Ending
+
+grounded.vis 0 
+
